@@ -1,0 +1,192 @@
+@charset "utf-8";
+/* CSS Document */
+
+.contain
+{
+	width:100%;
+	height:auto;
+}
+
+.head
+{
+	width:100%;
+	height:179px;
+	background-color:#447e36;
+}
+
+.head-body
+{
+	width:70%;
+	height:179px;
+	margin-left:15%;
+}
+
+.head-body1
+{
+	width:100%;
+	height:169px;
+	background-color:#e0e5ca;
+	margin-top:-169px;
+	
+}
+
+.body
+{
+	margin-top:10px;
+	width:70%;
+	height:auto;
+	margin-left:15%;
+	
+}
+
+.mid
+{
+	height:20%;
+	width:100%;
+	font-size:22px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-decoration:none;
+	margin-top:8px;
+}
+.mid-1
+{
+	height:60px;
+	width: 100%;
+	background-color:#f7f7f7;
+}
+
+.mainbody
+{
+	width:100%;
+	height:400px;
+}
+
+.mainbody1
+{
+	width:360px;
+	height:300px;
+	float:left;
+	margin-right:1%;
+	margin-top:1%;
+}
+
+.mainbody2
+{
+	width:360px;
+	height:300px;
+	float:left;
+	margin-top:1%;
+}
+
+.tabs {
+    width:100%;
+    display:inline-block;
+}
+ 
+    /*----- Tab Links -----*/
+    /* Clearfix */
+    .tab-links:after {
+        display:block;
+        clear:both;
+        content:'';
+		
+    }
+ 
+    .tab-links li {
+        float:left;
+		width:56.2%;
+		height:45px;
+        list-style:none;
+    }
+ 
+        .tab-links a {
+			width:100%;
+			height:100%;
+            display:inline-block;
+            background-color:#447e36;
+            font-size:15px;
+            font-weight:600;
+            color:#eaeaea;
+            transition:all linear 0.15s;
+        }
+ 
+        .tab-links a:hover {
+            background:#447e36;
+            text-decoration:none;
+        }
+ 
+    li.active a, li.active a:hover {
+        background:#f7f7f7;
+        color:#447e36;
+    }
+ 
+    /*----- Content of Tabs -----*/
+    .tab-content {
+        padding:15px;
+		margin-top:-10px;
+        box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
+        background:#f7f7f7;
+    }
+ 
+        .tab {
+			
+            display:none;
+        }
+ 
+        .tab.active {
+            display:block;
+        }
+		
+		
+		a
+		{
+			 color:#447e36;
+		}
+		
+.mainbody-col1
+{
+	width:100%;
+	height:95px;
+	background-color:#f7f7f7;
+	margin-top:50px;
+	margin-bottom:1%;
+	
+	
+}
+
+.mainbody-col2
+{
+	width:100%;
+	margin-top:50px;
+	height:95px;
+	background-color:#f7f7f7;
+	
+}
+
+.mainbody-col1-head
+{
+	width:60%;
+	height:50px;
+	background-color:#f7f7f7;
+	float:left;
+}
+
+.mainbody-col1-head1
+{
+	float:left;
+	width:35%;
+	height:40px;
+	background-color:#EEE;
+	margin-top:10px;
+	
+}
+
+.mainbody3
+{
+	float:left;
+	width:21%;
+	height:300px;
+	margin-left:1%;
+	margin-top:1%;
+}
+

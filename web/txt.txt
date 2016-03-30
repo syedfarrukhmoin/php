@@ -1,0 +1,6 @@
+<div class="body">
+    <div class=" mid-1"><img src="img/bg-1.png" style="margin-left:10px; margin-right:10px; margin-top:8px; float:left;"/><div style="height:50px; width:138px; background-color:#FFF; margin-top:5px; float:left"><img src="img/download.png" style="margin-left:25px; margin-top:10px;"/></div><div style="height:50px; width:70%; margin-left:20px; margin-top:14px; float:left; font-size:80%; font-family:Georgia, 'Times New Roman', Times, serif;">At the time of creation of Pakistan as a sovereign state in 1947, means for higher education and research were negligible. Responding to the impending requirement the University of Karachi was established in 1951 :: <a style="color:#447e36;"> Read More</a></div></div>
+
+
+<div class="row body">
+  <div class="col-xs-9">.At the time of creation of Pakistan as a sovereign state in 1947, means for higher education and research were negligible. Responding to the impending requirement the University of Karachi was established in 1951 :: </div>
